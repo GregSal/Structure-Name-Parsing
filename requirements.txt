@@ -1,0 +1,5 @@
+python=3.12.3
+xlwings=0.31.3
+pandas=2.2.2
+pyodbc=5.1.0
+jupyterlab=4.2.1
