@@ -1,0 +1,11 @@
+name: StructureNameParsing
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - pyodbc
+  - xlwings
+prefix: C:\ProgramData\Anaconda3\envs\StructureNameParsing
